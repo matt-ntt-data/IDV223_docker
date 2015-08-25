@@ -2,6 +2,7 @@ cobertura:latest
 checkstyle:latest
 findbugs:latest
 scm-api:latest
+gradle:latest
 git:latest
 git-client:latest
 git-server:latest
