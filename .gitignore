@@ -1,0 +1,2 @@
+#folder ignores includes the ssh folder which has the private key in *DO NOT* add this folder to git
+ssh/
