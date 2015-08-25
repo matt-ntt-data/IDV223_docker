@@ -1,4 +1,9 @@
 cobertura:latest
 checkstyle:latest
 findbugs:latest
+scm-api:latest
+git:latest
+git-client:latest
+git-server:latest
 github:latest
+github-api:latest
