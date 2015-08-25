@@ -1,0 +1,4 @@
+cobertura:latest
+checkstyle:latest
+findbugs:latest
+github:latest
